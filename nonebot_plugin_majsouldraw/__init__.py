@@ -3,6 +3,8 @@ from nonebot.plugin import PluginMetadata
 
 from .config import Config
 
+from .handler import majsouldraw
+
 __plugin_meta__ = PluginMetadata(
     name="majsouldraw",
     description="",
